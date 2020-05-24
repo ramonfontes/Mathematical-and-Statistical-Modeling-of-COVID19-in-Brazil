@@ -24,7 +24,7 @@ import multiprocessing as mp
 
 
 
-logging.disable()           
+#logging.disable()           
 class EXP:
     ''' f(x) = a*exp(b*x) '''
     def __init__(self, N_inicial,numeroProcessadores=None):
